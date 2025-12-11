@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Model checkpoints and outputs
+*.pth
+*.ckpt
+*.pt
+change_detection_results/
+work_dirs/
+output/
+
+# Data files (large files)
+*.tif
+*.tiff
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+

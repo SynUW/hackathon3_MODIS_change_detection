@@ -1,0 +1,18 @@
+Custom License for Research Use Only
+
+Copyright (c) 2025 Lincoln Linlin Xu
+
+Permission is hereby granted to the students supervised by Lincoln linlin Xu to use the code in this repository solely for academic and research purposes related to their thesis and research work under the supervision of Lincoln Linlin Xu, at University of Calgary.
+
+Restrictions:
+
+    1. The code may not be shared with any third parties, including other students, researchers, or institutions, without the express written permission of Lincoln Linlin Xu.
+    
+    2. The code may not be used for any commercial purposes without the express written consent of Lincoln Linlin Xu.
+    
+    3. Derivative works are allowed as part of the graduate student's academic progress, but they must not be distributed or commercialized without express written permission.
+
+Disclaimer:
+
+    This code is provided "as-is," without any express or implied warranties, including but not limited to implied warranties of merchantability and fitness for a particular purpose. In no event shall the author be liable for any claim, damages, or other liability arising from the use of the code.
+    
